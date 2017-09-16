@@ -45,6 +45,9 @@ The set of all possible feasible assignments is
 S = {s = {(x1, v1), ... , (xn, vn)} | vi ∈ Di, s satisfies all the constraints}. 
 S is usually called a search (or solution) space, as each element of the set can be seen as a candidate solution. To solve a combinatorial optimization problem one has to find a solution s∗ ∈ S with minimum objective function value, that is, f (s∗) ≤ f (s) ∀s ∈ S. s∗ is called a globally optimal solution of (S, f ) and the set S∗ ⊆ S is called the set of globally optimal solutions.
 
+generate point set in a triangle area
+![My helpful screenshot]({{ site.url }}/imgs/ss1.png)
+
 [1]
 [2]
 [3]

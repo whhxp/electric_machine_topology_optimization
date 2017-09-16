@@ -104,7 +104,7 @@ end
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
-
+![My helpful screenshot]({{ site.url }}/imgs/ss1.png)
 ### Definition lists can be used with HTML syntax.
 
 <dl>
