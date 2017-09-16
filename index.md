@@ -50,6 +50,10 @@ end
 3.  This is an ordered list following a header.
 
 ###### [](#header-6)Header 6
+|a|Ab|c|
+|:-----|:=--|:--|
+|lala|lll|ccc|
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
