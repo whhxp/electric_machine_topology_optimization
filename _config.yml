@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Electric machine topology optimization
 description: Some info about electric machine
 show_downloads: false
+google_analytics: UA-106591722-1
