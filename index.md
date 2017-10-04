@@ -4,12 +4,7 @@ layout: default
 
 The optimization of electrical machines is a promising area in engineering (from electric traction to renewable energy conversion), where weight reduction, as well as performance improvement in both torque and efficiency are the major concerns.
 
-Some studies had reported the success of increment in the performance of motors by using magnetic field analysis and optimization methods [1]–[4]
-
-In those analyses, the outline of the optimized shape is given in advance, then specified parameters are determined by using a parametric analysis or conventional optimization method. 
-If an optimization method using a system which turns materials into different number of shapes in a design domain, is used, there is a possibility that a new magnetic circuit is discovered, because it is not necessary to set design variables in advance.
-
-There are many papers concerning on 
+Some studies had reported the success of increment in the performance of motors by using magnetic field analysis and optimization methods. 
 >There are many papers concerning this technique. 
 The dipole magnet is optimized by putting dipole conductors [5]. 
 A simple magnetic device was designed by optimizing the material distribution [6]. 
@@ -22,6 +17,11 @@ A shape design sensitivity analysis is applied to the optimization of HTS (high 
 The density method is applied to the optimization of an actual motor, but the analysis is not sufficient, because the nonlinearity of magnetic material is not taken into account [13]. 
 Namely, the sensitivity analysis using the adjoint variable method proposed in [14] is widely used in the optimization [7], [10], [12], [13]. 
 >
+
+
+
+In those analyses, the outline of the optimized shape is given in advance, then specified parameters are determined by using a parametric analysis or conventional optimization method. 
+If an optimization method using a system which turns materials into different number of shapes in a design domain, is used, there is a possibility that a new magnetic circuit is discovered, because it is not necessary to set design variables in advance.
 
 As a result, reports on the optimization of electric machines taking account of the rotation of rotor and topologies of magnetic material are few. In addition, the edge of different materials is rough when using ON/OFF method optimization in most of cases, which is difficult to produce the prototype directly. Further design and test are needed after optimization.
 
