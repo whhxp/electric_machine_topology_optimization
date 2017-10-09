@@ -1,6 +1,10 @@
+# Definition of Topology
+In design process, the topology usually is considered as a sub-field of geometry. The first work that related to topology was Königsberg bridge problem proposed by Euler. This problem was entitled "The solution of a problem relating to the geometry of position", which indicated that the distance was not relevant.[1] Etymologically, the word is derived from the Greek noun *topos* which means location, place, space or domain.[1] In mathematics, topology is concerned with a object that can be deformed, twisted, or stretched in an arbitrary manner.[2] If two objects have the same topology properties, they are said to be homeomorphic. 
+
+
 # Topology optimization method
 
-Optimize a topology, i.e. to arrange materials or position structures properly and make the whole object reaches it global optimal. Traditionally, it can be divided into mainly two approaches, micro-structure topology optimization and marco-structure optimization. [1]()
+Optimize a topology, i.e. to arrange materials or position structures properly and make the objective reaches its global optimal. Traditionally, it can be divided into mainly two approaches, micro-structure topology optimization and marco-structure optimization. [3]
 
 
 ## *Microstructure* 
@@ -14,4 +18,6 @@ The second method mentioned consists of an iterative positioning of new holes "b
 
 
 
-[1]() "Topology optimization of continuum structures:A review"
+[1]http://www-groups.dcs.st-and.ac.uk/history/HistTopics/Topology_in_mathematics.html\
+[2]http://mathworld.wolfram.com/Topology.html\
+[3] "Topology optimization of continuum structures:A review"
