@@ -18,11 +18,11 @@ In this class, solid isotropic materials are considered as opposed to porous, mi
 The second method mentioned consists of an iterative positioning of new holes "bubbles" at specific points in the topology domain. In each iteration, the holes and the existing variable boundaries of the continuous body are simultaneously subjected to a shape optimization procedure see 138,209,210,211,230,298.
 
 
-## Topology Optimizaiton Problem with pole number and coil winding arragnement 
+## Topology Optimization Problem with pole number and coil winding arrangement 
 
-In electric machine design process, the detailed distance and postion of  specific structures are not very important. In initial design process, the combination of pole number and coil winding arrangement are more important. 
+In electric machine design process, the detailed distance and position of  specific structures are not very important. In initial design process, the combination of pole number and coil winding arrangement are more important. 
 
-For the structure of Permanent Magnet Synchronous Motor(PMSM) design, the pole number and coil winding arrangement is a NP-complete problem. Topology Optimizaiton Problem with pole number and coil winding arragnement is defined as follows:
+For the structure of Permanent Magnet Synchronous Motor(PMSM) design, the pole number and coil winding arrangement is a NP-complete problem. Topology Optimization Problem with pole number and coil winding arrangement is defined as follows:
 
 Object function F: torque = 
 
